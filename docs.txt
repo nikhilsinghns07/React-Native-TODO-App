@@ -1,0 +1,5 @@
+TO-DO App in React Native : 
+    * User inputs his/her goals and also submits a deadline with it.
+    * When user clicks on Goal he/she can see details about the task.
+    * App name is Achieve
+    
